@@ -1,0 +1,456 @@
+12/26/2019, 16:06:11 - Created webscraper log file.
+12/26/2019, 16:07:28 - Began the Yelp reviews webscraping loop with a random seed state of 1226
+12/26/2019, 16:07:32 - Visited the first page of Yelp reviews for mangia-and-bevi-toronto.
+12/26/2019, 16:07:32 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:07:32 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:08:02 - Visited page number 4 of Yelp reviews for mangia-and-bevi-toronto
+12/26/2019, 16:08:03 - Successfully webscraped 20 Yelp reviews from page number 4.
+12/26/2019, 16:08:03 - Randomly decided to pause for 19 seconds before moving to next business.
+12/26/2019, 16:08:25 - Visited the first page of Yelp reviews for cherry-street-bar-b-que-toronto.
+12/26/2019, 16:08:25 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:08:25 - Randomly decided to pause for 19 seconds before visiting next page.
+12/26/2019, 16:08:49 - Visited page number 7 of Yelp reviews for cherry-street-bar-b-que-toronto
+12/26/2019, 16:08:49 - Successfully webscraped 9 Yelp reviews from page number 7.
+12/26/2019, 16:08:49 - Randomly decided to pause for 26 seconds before moving to next business.
+12/26/2019, 16:09:20 - Visited the first page of Yelp reviews for rendez-vous-toronto.
+12/26/2019, 16:09:20 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:09:20 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:09:47 - Visited page number 8 of Yelp reviews for rendez-vous-toronto
+12/26/2019, 16:09:47 - Successfully webscraped 0 Yelp reviews from page number 8.
+12/26/2019, 16:09:47 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 16:10:21 - Visited the first page of Yelp reviews for kupfert-and-kim-toronto.
+12/26/2019, 16:10:21 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:10:21 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 16:10:55 - Visited page number 5 of Yelp reviews for kupfert-and-kim-toronto
+12/26/2019, 16:10:55 - Successfully webscraped 20 Yelp reviews from page number 5.
+12/26/2019, 16:10:55 - Randomly decided to pause for 27 seconds before moving to next business.
+12/26/2019, 16:11:26 - Visited the first page of Yelp reviews for poke-eats-toronto.
+12/26/2019, 16:11:27 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:11:27 - Randomly decided to pause for 15 seconds before visiting next page.
+12/26/2019, 16:11:45 - Visited page number 6 of Yelp reviews for poke-eats-toronto
+12/26/2019, 16:11:45 - Successfully webscraped 0 Yelp reviews from page number 6.
+12/26/2019, 16:11:45 - Randomly decided to pause for 26 seconds before moving to next business.
+12/26/2019, 16:12:15 - Visited the first page of Yelp reviews for niuda-hand-pulled-noodles-toronto.
+12/26/2019, 16:12:16 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:12:16 - Randomly decided to pause for 18 seconds before visiting next page.
+12/26/2019, 16:12:37 - Visited page number 1 of Yelp reviews for niuda-hand-pulled-noodles-toronto
+12/26/2019, 16:12:38 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:12:38 - Randomly decided to pause for 18 seconds before moving to next business.
+12/26/2019, 16:13:01 - Visited the first page of Yelp reviews for kub-khao-thai-eatery-toronto.
+12/26/2019, 16:13:01 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:13:01 - Randomly decided to pause for 23 seconds before visiting next page.
+12/26/2019, 16:13:28 - Visited page number 2 of Yelp reviews for kub-khao-thai-eatery-toronto
+12/26/2019, 16:13:29 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:13:29 - Randomly decided to pause for 14 seconds before moving to next business.
+12/26/2019, 16:13:47 - Visited the first page of Yelp reviews for rikkochez-toronto.
+12/26/2019, 16:13:47 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:13:47 - Randomly decided to pause for 16 seconds before visiting next page.
+12/26/2019, 16:14:07 - Visited page number 6 of Yelp reviews for rikkochez-toronto
+12/26/2019, 16:14:07 - Successfully webscraped 0 Yelp reviews from page number 6.
+12/26/2019, 16:14:07 - Randomly decided to pause for 24 seconds before moving to next business.
+12/26/2019, 16:14:35 - Visited the first page of Yelp reviews for si-lom-thai-bistro-toronto.
+12/26/2019, 16:14:36 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:14:36 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:14:51 - Visited page number 1 of Yelp reviews for si-lom-thai-bistro-toronto
+12/26/2019, 16:14:52 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:14:52 - Randomly decided to pause for 14 seconds before moving to next business.
+12/26/2019, 16:15:10 - Visited the first page of Yelp reviews for rooster-coffee-house-toronto-5.
+12/26/2019, 16:15:11 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:15:11 - Randomly decided to pause for 25 seconds before visiting next page.
+12/26/2019, 16:15:39 - Visited page number 7 of Yelp reviews for rooster-coffee-house-toronto-5
+12/26/2019, 16:15:39 - Successfully webscraped 0 Yelp reviews from page number 7.
+12/26/2019, 16:15:39 - Randomly decided to pause for 26 seconds before moving to next business.
+12/26/2019, 16:16:10 - Visited the first page of Yelp reviews for fuwa-fuwa-japanese-pancakes-toronto-5.
+12/26/2019, 16:16:10 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:16:10 - Randomly decided to pause for 18 seconds before visiting next page.
+12/26/2019, 16:16:32 - Visited page number 6 of Yelp reviews for fuwa-fuwa-japanese-pancakes-toronto-5
+12/26/2019, 16:16:33 - Successfully webscraped 10 Yelp reviews from page number 6.
+12/26/2019, 16:16:33 - Randomly decided to pause for 19 seconds before moving to next business.
+12/26/2019, 16:16:56 - Visited the first page of Yelp reviews for ottos-berlin-döner-toronto-2.
+12/26/2019, 16:16:56 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:16:56 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 16:17:28 - Visited page number 1 of Yelp reviews for ottos-berlin-döner-toronto-2
+12/26/2019, 16:17:28 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:17:28 - Randomly decided to pause for 25 seconds before moving to next business.
+12/26/2019, 16:17:57 - Visited the first page of Yelp reviews for athens-restaurant-toronto.
+12/26/2019, 16:17:57 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:17:57 - Randomly decided to pause for 16 seconds before visiting next page.
+12/26/2019, 16:18:20 - Visited page number 2 of Yelp reviews for athens-restaurant-toronto
+12/26/2019, 16:18:20 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:18:21 - Randomly decided to pause for 27 seconds before moving to next business.
+12/26/2019, 16:18:53 - Visited the first page of Yelp reviews for cest-what-toronto.
+12/26/2019, 16:18:53 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:18:53 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:19:11 - Visited page number 13 of Yelp reviews for cest-what-toronto
+12/26/2019, 16:19:11 - Successfully webscraped 20 Yelp reviews from page number 13.
+12/26/2019, 16:19:11 - Randomly decided to pause for 26 seconds before moving to next business.
+12/26/2019, 16:19:43 - Visited the first page of Yelp reviews for veggie-d-light-toronto.
+12/26/2019, 16:19:43 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:19:43 - Randomly decided to pause for 16 seconds before visiting next page.
+12/26/2019, 16:20:03 - Visited page number 1 of Yelp reviews for veggie-d-light-toronto
+12/26/2019, 16:20:04 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:20:04 - Randomly decided to pause for 18 seconds before moving to next business.
+12/26/2019, 16:20:27 - Visited the first page of Yelp reviews for pi-co-toronto.
+12/26/2019, 16:20:27 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:20:27 - Randomly decided to pause for 10 seconds before visiting next page.
+12/26/2019, 16:20:41 - Visited page number 7 of Yelp reviews for pi-co-toronto
+12/26/2019, 16:20:42 - Successfully webscraped 0 Yelp reviews from page number 7.
+12/26/2019, 16:20:42 - Randomly decided to pause for 25 seconds before moving to next business.
+12/26/2019, 16:21:12 - Visited the first page of Yelp reviews for kintaro-izakaya-toronto-3.
+12/26/2019, 16:21:12 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:21:12 - Randomly decided to pause for 16 seconds before visiting next page.
+12/26/2019, 16:21:33 - Visited page number 1 of Yelp reviews for kintaro-izakaya-toronto-3
+12/26/2019, 16:21:34 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:21:34 - Randomly decided to pause for 13 seconds before moving to next business.
+12/26/2019, 16:21:52 - Visited the first page of Yelp reviews for campechano-taquería-toronto.
+12/26/2019, 16:21:53 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:21:53 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:22:21 - Visited page number 2 of Yelp reviews for campechano-taquería-toronto
+12/26/2019, 16:22:21 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:22:21 - Randomly decided to pause for 18 seconds before moving to next business.
+12/26/2019, 16:22:44 - Visited the first page of Yelp reviews for opus-restaurant-toronto.
+12/26/2019, 16:22:44 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:22:44 - Randomly decided to pause for 21 seconds before visiting next page.
+12/26/2019, 16:23:10 - Visited page number 6 of Yelp reviews for opus-restaurant-toronto
+12/26/2019, 16:23:10 - Successfully webscraped 0 Yelp reviews from page number 6.
+12/26/2019, 16:23:10 - Randomly decided to pause for 28 seconds before moving to next business.
+12/26/2019, 16:23:42 - Visited the first page of Yelp reviews for descendant-detroit-style-pizza-toronto-2.
+12/26/2019, 16:23:42 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:23:42 - Randomly decided to pause for 23 seconds before visiting next page.
+12/26/2019, 16:24:10 - Visited page number 12 of Yelp reviews for descendant-detroit-style-pizza-toronto-2
+12/26/2019, 16:24:10 - Successfully webscraped 20 Yelp reviews from page number 12.
+12/26/2019, 16:24:10 - Randomly decided to pause for 14 seconds before moving to next business.
+12/26/2019, 16:24:27 - Visited the first page of Yelp reviews for the-county-general-toronto.
+12/26/2019, 16:24:28 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:24:28 - Randomly decided to pause for 25 seconds before visiting next page.
+12/26/2019, 16:24:56 - Visited page number 3 of Yelp reviews for the-county-general-toronto
+12/26/2019, 16:24:56 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:24:56 - Randomly decided to pause for 27 seconds before moving to next business.
+12/26/2019, 16:25:28 - Visited the first page of Yelp reviews for boxcar-social-toronto.
+12/26/2019, 16:25:28 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:25:28 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 16:26:02 - Visited page number 1 of Yelp reviews for boxcar-social-toronto
+12/26/2019, 16:26:02 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:26:02 - Randomly decided to pause for 14 seconds before moving to next business.
+12/26/2019, 16:26:24 - Visited the first page of Yelp reviews for hailed-coffee-toronto.
+12/26/2019, 16:26:24 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:26:24 - Randomly decided to pause for 27 seconds before visiting next page.
+12/26/2019, 16:26:54 - Visited page number 1 of Yelp reviews for hailed-coffee-toronto
+12/26/2019, 16:26:55 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:26:55 - Randomly decided to pause for 28 seconds before moving to next business.
+12/26/2019, 16:27:27 - Visited the first page of Yelp reviews for beach-hill-smokehouse-toronto.
+12/26/2019, 16:27:27 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:27:27 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:27:55 - Visited page number 1 of Yelp reviews for beach-hill-smokehouse-toronto
+12/26/2019, 16:27:55 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:27:55 - Randomly decided to pause for 20 seconds before moving to next business.
+12/26/2019, 16:28:20 - Visited the first page of Yelp reviews for oretta-toronto.
+12/26/2019, 16:28:20 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:28:20 - Randomly decided to pause for 26 seconds before visiting next page.
+12/26/2019, 16:28:50 - Visited page number 7 of Yelp reviews for oretta-toronto
+12/26/2019, 16:28:50 - Successfully webscraped 20 Yelp reviews from page number 7.
+12/26/2019, 16:28:50 - Randomly decided to pause for 24 seconds before moving to next business.
+12/26/2019, 16:29:19 - Visited the first page of Yelp reviews for wow-sushi-toronto.
+12/26/2019, 16:29:19 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:29:19 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 16:29:52 - Visited page number 4 of Yelp reviews for wow-sushi-toronto
+12/26/2019, 16:29:52 - Successfully webscraped 20 Yelp reviews from page number 4.
+12/26/2019, 16:29:52 - Randomly decided to pause for 19 seconds before moving to next business.
+12/26/2019, 16:30:15 - Visited the first page of Yelp reviews for the-dakota-tavern-toronto.
+12/26/2019, 16:30:15 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:30:15 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 16:30:48 - Visited page number 3 of Yelp reviews for the-dakota-tavern-toronto
+12/26/2019, 16:30:48 - Successfully webscraped 15 Yelp reviews from page number 3.
+12/26/2019, 16:30:48 - Randomly decided to pause for 15 seconds before moving to next business.
+12/26/2019, 16:31:07 - Visited the first page of Yelp reviews for nom-nom-nom-poutine-toronto.
+12/26/2019, 16:31:07 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:31:07 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:31:23 - Visited page number 3 of Yelp reviews for nom-nom-nom-poutine-toronto
+12/26/2019, 16:31:23 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:31:23 - Randomly decided to pause for 19 seconds before moving to next business.
+12/26/2019, 16:31:46 - Visited the first page of Yelp reviews for pho-linh-toronto.
+12/26/2019, 16:31:46 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:31:46 - Randomly decided to pause for 12 seconds before visiting next page.
+12/26/2019, 16:32:02 - Visited page number 10 of Yelp reviews for pho-linh-toronto
+12/26/2019, 16:32:02 - Successfully webscraped 14 Yelp reviews from page number 10.
+12/26/2019, 16:32:02 - Randomly decided to pause for 16 seconds before moving to next business.
+12/26/2019, 16:32:22 - Visited the first page of Yelp reviews for rosewood-asian-cuisine-toronto-6.
+12/26/2019, 16:32:22 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:32:22 - Randomly decided to pause for 19 seconds before visiting next page.
+12/26/2019, 16:32:45 - Visited page number 3 of Yelp reviews for rosewood-asian-cuisine-toronto-6
+12/26/2019, 16:32:45 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:32:45 - Randomly decided to pause for 20 seconds before moving to next business.
+12/26/2019, 16:33:10 - Visited the first page of Yelp reviews for summers-ice-cream-toronto-2.
+12/26/2019, 16:33:11 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:33:11 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:33:26 - Visited page number 3 of Yelp reviews for summers-ice-cream-toronto-2
+12/26/2019, 16:33:26 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:33:26 - Randomly decided to pause for 26 seconds before moving to next business.
+12/26/2019, 16:33:56 - Visited the first page of Yelp reviews for mai-bistro-toronto.
+12/26/2019, 16:33:56 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:33:56 - Randomly decided to pause for 13 seconds before visiting next page.
+12/26/2019, 16:34:13 - Visited page number 3 of Yelp reviews for mai-bistro-toronto
+12/26/2019, 16:34:14 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:34:14 - Randomly decided to pause for 12 seconds before moving to next business.
+12/26/2019, 16:34:31 - Visited the first page of Yelp reviews for barberians-steak-house-toronto.
+12/26/2019, 16:34:31 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:34:31 - Randomly decided to pause for 20 seconds before visiting next page.
+12/26/2019, 16:34:54 - Visited page number 11 of Yelp reviews for barberians-steak-house-toronto
+12/26/2019, 16:34:55 - Successfully webscraped 20 Yelp reviews from page number 11.
+12/26/2019, 16:34:55 - Randomly decided to pause for 11 seconds before moving to next business.
+12/26/2019, 16:35:11 - Visited the first page of Yelp reviews for terroni-toronto-2.
+12/26/2019, 16:35:11 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:35:11 - Randomly decided to pause for 22 seconds before visiting next page.
+12/26/2019, 16:35:38 - Visited page number 6 of Yelp reviews for terroni-toronto-2
+12/26/2019, 16:35:39 - Successfully webscraped 20 Yelp reviews from page number 6.
+12/26/2019, 16:35:39 - Randomly decided to pause for 25 seconds before moving to next business.
+12/26/2019, 16:36:09 - Visited the first page of Yelp reviews for biffs-bistro-toronto.
+12/26/2019, 16:36:09 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:36:09 - Randomly decided to pause for 29 seconds before visiting next page.
+12/26/2019, 16:36:43 - Visited page number 2 of Yelp reviews for biffs-bistro-toronto
+12/26/2019, 16:36:43 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:36:43 - Randomly decided to pause for 22 seconds before moving to next business.
+12/26/2019, 16:37:11 - Visited the first page of Yelp reviews for charidise-toronto.
+12/26/2019, 16:37:11 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:37:11 - Randomly decided to pause for 23 seconds before visiting next page.
+12/26/2019, 16:37:37 - Visited page number 9 of Yelp reviews for charidise-toronto
+12/26/2019, 16:37:37 - Successfully webscraped 7 Yelp reviews from page number 9.
+12/26/2019, 16:37:37 - Randomly decided to pause for 17 seconds before moving to next business.
+12/26/2019, 16:37:58 - Visited the first page of Yelp reviews for pearl-harbourfront-chinese-cuisine-toronto-2.
+12/26/2019, 16:37:58 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:37:58 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 16:38:32 - Visited page number 5 of Yelp reviews for pearl-harbourfront-chinese-cuisine-toronto-2
+12/26/2019, 16:38:32 - Successfully webscraped 20 Yelp reviews from page number 5.
+12/26/2019, 16:38:32 - Randomly decided to pause for 14 seconds before moving to next business.
+12/26/2019, 16:38:51 - Visited the first page of Yelp reviews for lotus-garden-hakka-indian-style-chinese-toronto.
+12/26/2019, 16:38:51 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:38:51 - Randomly decided to pause for 30 seconds before visiting next page.
+12/26/2019, 16:39:25 - Visited page number 4 of Yelp reviews for lotus-garden-hakka-indian-style-chinese-toronto
+12/26/2019, 16:39:25 - Successfully webscraped 14 Yelp reviews from page number 4.
+12/26/2019, 16:39:25 - Randomly decided to pause for 17 seconds before moving to next business.
+12/26/2019, 16:39:47 - Visited the first page of Yelp reviews for como-en-casa-toronto.
+12/26/2019, 16:39:47 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:39:47 - Randomly decided to pause for 18 seconds before visiting next page.
+12/26/2019, 16:40:08 - Visited page number 9 of Yelp reviews for como-en-casa-toronto
+12/26/2019, 16:40:09 - Successfully webscraped 20 Yelp reviews from page number 9.
+12/26/2019, 16:40:09 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 16:40:43 - Visited the first page of Yelp reviews for dekefir-toronto.
+12/26/2019, 16:40:43 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:40:43 - Randomly decided to pause for 21 seconds before visiting next page.
+12/26/2019, 16:41:09 - Visited page number 2 of Yelp reviews for dekefir-toronto
+12/26/2019, 16:41:09 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:41:09 - Randomly decided to pause for 11 seconds before moving to next business.
+12/26/2019, 16:41:25 - Visited the first page of Yelp reviews for nathan-phillips-square-toronto.
+12/26/2019, 16:41:25 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:41:25 - Randomly decided to pause for 18 seconds before visiting next page.
+12/26/2019, 16:41:47 - Visited page number 3 of Yelp reviews for nathan-phillips-square-toronto
+12/26/2019, 16:41:47 - Successfully webscraped 14 Yelp reviews from page number 3.
+12/26/2019, 16:41:47 - Randomly decided to pause for 25 seconds before moving to next business.
+12/26/2019, 16:42:17 - Visited the first page of Yelp reviews for cold-tea-toronto.
+12/26/2019, 16:42:17 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:42:17 - Randomly decided to pause for 13 seconds before visiting next page.
+12/26/2019, 16:42:33 - Visited page number 4 of Yelp reviews for cold-tea-toronto
+12/26/2019, 16:42:33 - Successfully webscraped 20 Yelp reviews from page number 4.
+12/26/2019, 16:42:33 - Randomly decided to pause for 19 seconds before moving to next business.
+12/26/2019, 16:42:57 - Visited the first page of Yelp reviews for the-distillery-district-toronto.
+12/26/2019, 16:42:57 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:42:57 - Randomly decided to pause for 30 seconds before visiting next page.
+12/26/2019, 16:43:31 - Visited page number 3 of Yelp reviews for the-distillery-district-toronto
+12/26/2019, 16:43:31 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:43:31 - Randomly decided to pause for 29 seconds before moving to next business.
+12/26/2019, 16:44:05 - Visited the first page of Yelp reviews for the-blake-house-toronto.
+12/26/2019, 16:44:06 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:44:06 - Randomly decided to pause for 17 seconds before visiting next page.
+12/26/2019, 16:44:26 - Visited page number 1 of Yelp reviews for the-blake-house-toronto
+12/26/2019, 16:44:26 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 16:44:26 - Randomly decided to pause for 22 seconds before moving to next business.
+12/26/2019, 16:44:52 - Visited the first page of Yelp reviews for the-cloak-bar-toronto-2.
+12/26/2019, 16:44:52 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:44:52 - Randomly decided to pause for 27 seconds before visiting next page.
+12/26/2019, 16:45:24 - Visited page number 3 of Yelp reviews for the-cloak-bar-toronto-2
+12/26/2019, 16:45:24 - Successfully webscraped 15 Yelp reviews from page number 3.
+12/26/2019, 16:45:24 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 16:45:58 - Visited the first page of Yelp reviews for the-mugshot-tavern-toronto.
+12/26/2019, 16:45:58 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:45:58 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:46:26 - Visited page number 7 of Yelp reviews for the-mugshot-tavern-toronto
+12/26/2019, 16:46:26 - Successfully webscraped 0 Yelp reviews from page number 7.
+12/26/2019, 16:46:26 - Randomly decided to pause for 11 seconds before moving to next business.
+12/26/2019, 16:46:40 - Visited the first page of Yelp reviews for korean-grill-house-toronto-2.
+12/26/2019, 16:46:40 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:46:40 - Randomly decided to pause for 15 seconds before visiting next page.
+12/26/2019, 16:46:59 - Visited page number 8 of Yelp reviews for korean-grill-house-toronto-2
+12/26/2019, 16:46:59 - Successfully webscraped 20 Yelp reviews from page number 8.
+12/26/2019, 16:46:59 - Randomly decided to pause for 28 seconds before moving to next business.
+12/26/2019, 16:47:31 - Visited the first page of Yelp reviews for mymy-chicken-toronto.
+12/26/2019, 16:47:32 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:47:32 - Randomly decided to pause for 27 seconds before visiting next page.
+12/26/2019, 16:48:04 - Visited page number 5 of Yelp reviews for mymy-chicken-toronto
+12/26/2019, 16:48:04 - Successfully webscraped 20 Yelp reviews from page number 5.
+12/26/2019, 16:48:04 - Randomly decided to pause for 12 seconds before moving to next business.
+12/26/2019, 16:48:22 - Visited the first page of Yelp reviews for loch-and-quay-toronto.
+12/26/2019, 16:48:22 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:48:22 - Randomly decided to pause for 29 seconds before visiting next page.
+12/26/2019, 16:48:54 - Visited page number 3 of Yelp reviews for loch-and-quay-toronto
+12/26/2019, 16:48:55 - Successfully webscraped 0 Yelp reviews from page number 3.
+12/26/2019, 16:48:55 - Randomly decided to pause for 16 seconds before moving to next business.
+12/26/2019, 16:49:16 - Visited the first page of Yelp reviews for storm-crow-manor-toronto-3.
+12/26/2019, 16:49:16 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:49:16 - Randomly decided to pause for 22 seconds before visiting next page.
+12/26/2019, 16:49:41 - Visited page number 4 of Yelp reviews for storm-crow-manor-toronto-3
+12/26/2019, 16:49:41 - Successfully webscraped 0 Yelp reviews from page number 4.
+12/26/2019, 16:49:41 - Randomly decided to pause for 22 seconds before moving to next business.
+12/26/2019, 16:50:09 - Visited the first page of Yelp reviews for emporium-latino-toronto.
+12/26/2019, 16:50:09 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:50:09 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:50:37 - Visited page number 2 of Yelp reviews for emporium-latino-toronto
+12/26/2019, 16:50:37 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:50:37 - Randomly decided to pause for 18 seconds before moving to next business.
+12/26/2019, 16:50:58 - Visited the first page of Yelp reviews for the-lockhart-toronto.
+12/26/2019, 16:50:59 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:50:59 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:51:14 - Visited page number 4 of Yelp reviews for the-lockhart-toronto
+12/26/2019, 16:51:14 - Successfully webscraped 20 Yelp reviews from page number 4.
+12/26/2019, 16:51:14 - Randomly decided to pause for 12 seconds before moving to next business.
+12/26/2019, 16:51:31 - Visited the first page of Yelp reviews for shangrila-tibetan-and-asian-cuisine-toronto-2.
+12/26/2019, 16:51:31 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:51:31 - Randomly decided to pause for 14 seconds before visiting next page.
+12/26/2019, 16:51:49 - Visited page number 6 of Yelp reviews for shangrila-tibetan-and-asian-cuisine-toronto-2
+12/26/2019, 16:51:49 - Successfully webscraped 0 Yelp reviews from page number 6.
+12/26/2019, 16:51:49 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 16:52:24 - Visited the first page of Yelp reviews for gusto-101-toronto.
+12/26/2019, 16:52:24 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:52:24 - Randomly decided to pause for 21 seconds before visiting next page.
+12/26/2019, 16:52:50 - Visited page number 15 of Yelp reviews for gusto-101-toronto
+12/26/2019, 16:52:50 - Successfully webscraped 20 Yelp reviews from page number 15.
+12/26/2019, 16:52:50 - Randomly decided to pause for 11 seconds before moving to next business.
+12/26/2019, 16:53:06 - Visited the first page of Yelp reviews for rol-san-toronto.
+12/26/2019, 16:53:06 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:53:06 - Randomly decided to pause for 29 seconds before visiting next page.
+12/26/2019, 16:53:39 - Visited page number 17 of Yelp reviews for rol-san-toronto
+12/26/2019, 16:53:39 - Successfully webscraped 20 Yelp reviews from page number 17.
+12/26/2019, 16:53:39 - Randomly decided to pause for 13 seconds before moving to next business.
+12/26/2019, 16:53:57 - Visited the first page of Yelp reviews for one-restaurant-toronto.
+12/26/2019, 16:53:57 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:53:57 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:54:15 - Visited page number 6 of Yelp reviews for one-restaurant-toronto
+12/26/2019, 16:54:16 - Successfully webscraped 20 Yelp reviews from page number 6.
+12/26/2019, 16:54:16 - Randomly decided to pause for 17 seconds before moving to next business.
+12/26/2019, 16:54:36 - Visited the first page of Yelp reviews for ritz-caribbean-foods-toronto-7.
+12/26/2019, 16:54:36 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:54:36 - Randomly decided to pause for 13 seconds before visiting next page.
+12/26/2019, 16:54:55 - Visited page number 5 of Yelp reviews for ritz-caribbean-foods-toronto-7
+12/26/2019, 16:54:55 - Successfully webscraped 20 Yelp reviews from page number 5.
+12/26/2019, 16:54:55 - Randomly decided to pause for 25 seconds before moving to next business.
+12/26/2019, 16:55:23 - Visited the first page of Yelp reviews for soufis-toronto-2.
+12/26/2019, 16:55:24 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:55:24 - Randomly decided to pause for 25 seconds before visiting next page.
+12/26/2019, 16:55:53 - Visited page number 5 of Yelp reviews for soufis-toronto-2
+12/26/2019, 16:55:54 - Successfully webscraped 0 Yelp reviews from page number 5.
+12/26/2019, 16:55:54 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 16:56:28 - Visited the first page of Yelp reviews for page-one-toronto-5.
+12/26/2019, 16:56:28 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:56:28 - Randomly decided to pause for 24 seconds before visiting next page.
+12/26/2019, 16:56:56 - Visited page number 7 of Yelp reviews for page-one-toronto-5
+12/26/2019, 16:56:56 - Successfully webscraped 0 Yelp reviews from page number 7.
+12/26/2019, 16:56:56 - Randomly decided to pause for 29 seconds before moving to next business.
+12/26/2019, 16:57:30 - Visited the first page of Yelp reviews for rolltation-toronto-6.
+12/26/2019, 16:57:30 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:57:30 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 16:57:45 - Visited page number 7 of Yelp reviews for rolltation-toronto-6
+12/26/2019, 16:57:45 - Successfully webscraped 0 Yelp reviews from page number 7.
+12/26/2019, 16:57:45 - Randomly decided to pause for 25 seconds before moving to next business.
+12/26/2019, 16:58:15 - Visited the first page of Yelp reviews for fuel-toronto.
+12/26/2019, 16:58:15 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:58:15 - Randomly decided to pause for 21 seconds before visiting next page.
+12/26/2019, 16:58:40 - Visited page number 3 of Yelp reviews for fuel-toronto
+12/26/2019, 16:58:41 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 16:58:41 - Randomly decided to pause for 23 seconds before moving to next business.
+12/26/2019, 16:59:08 - Visited the first page of Yelp reviews for pow-wow-cafe-toronto.
+12/26/2019, 16:59:08 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:59:08 - Randomly decided to pause for 29 seconds before visiting next page.
+12/26/2019, 16:59:42 - Visited page number 2 of Yelp reviews for pow-wow-cafe-toronto
+12/26/2019, 16:59:42 - Successfully webscraped 20 Yelp reviews from page number 2.
+12/26/2019, 16:59:42 - Randomly decided to pause for 11 seconds before moving to next business.
+12/26/2019, 16:59:58 - Visited the first page of Yelp reviews for aanch-modernistic-indian-cuisine-toronto.
+12/26/2019, 16:59:58 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 16:59:58 - Randomly decided to pause for 28 seconds before visiting next page.
+12/26/2019, 17:00:31 - Visited page number 1 of Yelp reviews for aanch-modernistic-indian-cuisine-toronto
+12/26/2019, 17:00:31 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 17:00:31 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 17:01:06 - Visited the first page of Yelp reviews for nugateau-patisserie-toronto.
+12/26/2019, 17:01:06 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:01:06 - Randomly decided to pause for 16 seconds before visiting next page.
+12/26/2019, 17:01:28 - Visited page number 3 of Yelp reviews for nugateau-patisserie-toronto
+12/26/2019, 17:01:28 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 17:01:28 - Randomly decided to pause for 16 seconds before moving to next business.
+12/26/2019, 17:01:50 - Visited the first page of Yelp reviews for moon-bean-coffee-company-toronto.
+12/26/2019, 17:01:50 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:01:50 - Randomly decided to pause for 10 seconds before visiting next page.
+12/26/2019, 17:02:06 - Visited page number 1 of Yelp reviews for moon-bean-coffee-company-toronto
+12/26/2019, 17:02:06 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 17:02:06 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 17:02:40 - Visited the first page of Yelp reviews for umami-poke-toronto.
+12/26/2019, 17:02:41 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:02:41 - Randomly decided to pause for 15 seconds before visiting next page.
+12/26/2019, 17:02:59 - Visited page number 2 of Yelp reviews for umami-poke-toronto
+12/26/2019, 17:02:59 - Successfully webscraped 10 Yelp reviews from page number 2.
+12/26/2019, 17:02:59 - Randomly decided to pause for 17 seconds before moving to next business.
+12/26/2019, 17:03:20 - Visited the first page of Yelp reviews for athens-pastries-toronto-2.
+12/26/2019, 17:03:20 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:03:20 - Randomly decided to pause for 16 seconds before visiting next page.
+12/26/2019, 17:03:41 - Visited page number 3 of Yelp reviews for athens-pastries-toronto-2
+12/26/2019, 17:03:41 - Successfully webscraped 20 Yelp reviews from page number 3.
+12/26/2019, 17:03:41 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 17:04:18 - Visited the first page of Yelp reviews for hotblack-coffee-toronto-3.
+12/26/2019, 17:04:18 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:04:18 - Randomly decided to pause for 10 seconds before visiting next page.
+12/26/2019, 17:04:33 - Visited page number 4 of Yelp reviews for hotblack-coffee-toronto-3
+12/26/2019, 17:04:33 - Successfully webscraped 20 Yelp reviews from page number 4.
+12/26/2019, 17:04:33 - Randomly decided to pause for 18 seconds before moving to next business.
+12/26/2019, 17:04:56 - Visited the first page of Yelp reviews for pizza-pide-toronto.
+12/26/2019, 17:04:56 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:04:56 - Randomly decided to pause for 11 seconds before visiting next page.
+12/26/2019, 17:05:10 - Visited page number 4 of Yelp reviews for pizza-pide-toronto
+12/26/2019, 17:05:10 - Successfully webscraped 2 Yelp reviews from page number 4.
+12/26/2019, 17:05:10 - Randomly decided to pause for 27 seconds before moving to next business.
+12/26/2019, 17:05:43 - Visited the first page of Yelp reviews for me-va-me-kitchen-express-toronto-2.
+12/26/2019, 17:05:44 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:05:44 - Randomly decided to pause for 12 seconds before visiting next page.
+12/26/2019, 17:05:59 - Visited page number 7 of Yelp reviews for me-va-me-kitchen-express-toronto-2
+12/26/2019, 17:06:00 - Successfully webscraped 20 Yelp reviews from page number 7.
+12/26/2019, 17:06:00 - Randomly decided to pause for 17 seconds before moving to next business.
+12/26/2019, 17:06:22 - Visited the first page of Yelp reviews for nami-restaurant-toronto.
+12/26/2019, 17:06:22 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:06:22 - Randomly decided to pause for 21 seconds before visiting next page.
+12/26/2019, 17:06:47 - Visited page number 8 of Yelp reviews for nami-restaurant-toronto
+12/26/2019, 17:06:47 - Successfully webscraped 0 Yelp reviews from page number 8.
+12/26/2019, 17:06:47 - Randomly decided to pause for 22 seconds before moving to next business.
+12/26/2019, 17:07:13 - Visited the first page of Yelp reviews for miku-toronto-2.
+12/26/2019, 17:07:13 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:07:13 - Randomly decided to pause for 22 seconds before visiting next page.
+12/26/2019, 17:07:40 - Visited page number 1 of Yelp reviews for miku-toronto-2
+12/26/2019, 17:07:40 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 17:07:40 - Randomly decided to pause for 23 seconds before moving to next business.
+12/26/2019, 17:08:08 - Visited the first page of Yelp reviews for hapa-toronto-toronto.
+12/26/2019, 17:08:09 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:08:09 - Randomly decided to pause for 20 seconds before visiting next page.
+12/26/2019, 17:08:34 - Visited page number 8 of Yelp reviews for hapa-toronto-toronto
+12/26/2019, 17:08:34 - Successfully webscraped 9 Yelp reviews from page number 8.
+12/26/2019, 17:08:34 - Randomly decided to pause for 30 seconds before moving to next business.
+12/26/2019, 17:09:09 - Visited the first page of Yelp reviews for sam-james-coffee-bar-toronto.
+12/26/2019, 17:09:09 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:09:09 - Randomly decided to pause for 20 seconds before visiting next page.
+12/26/2019, 17:09:34 - Visited page number 1 of Yelp reviews for sam-james-coffee-bar-toronto
+12/26/2019, 17:09:34 - Successfully webscraped 20 Yelp reviews from page number 1.
+12/26/2019, 17:09:34 - Randomly decided to pause for 26 seconds before moving to next business.
+12/26/2019, 17:10:07 - Visited the first page of Yelp reviews for rachels-coffee-house-toronto-4.
+12/26/2019, 17:10:08 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:10:08 - Randomly decided to pause for 18 seconds before visiting next page.
+12/26/2019, 17:10:29 - Visited page number 6 of Yelp reviews for rachels-coffee-house-toronto-4
+12/26/2019, 17:10:29 - Successfully webscraped 0 Yelp reviews from page number 6.
+12/26/2019, 17:10:29 - Randomly decided to pause for 23 seconds before moving to next business.
+12/26/2019, 17:10:58 - Visited the first page of Yelp reviews for the-burgers-priest-toronto-2.
+12/26/2019, 17:10:58 - Successfully webscraped 20 Yelp reviews from the first page.
+12/26/2019, 17:10:58 - Randomly decided to pause for 10 seconds before visiting next page.
+12/26/2019, 17:11:13 - Visited page number 17 of Yelp reviews for the-burgers-priest-toronto-2
